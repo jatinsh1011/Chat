@@ -1,4 +1,3 @@
-web: node index.js
 FROM node:18
 
 # Set the working directory in the container
